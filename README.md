@@ -102,4 +102,4 @@ Using a PowerShell script created by one of my CourseCareers mentors Josh Madako
 <h2>Conclusion</h2>
 
 
-In this lab, we successfully set up a fully functional Active Directory environment in Microsoft Azure. By creating and configuring a Domain Controller and a client VM, installing Active Directory Domain Services, and managing user accounts, we established domain connectivity and demonstrated how to efficiently manage users and resources in a Windows-based domain. This project showcases essential skills in network administration, user management, and Active Directory configuration, which are critical for managing IT environments.
+
